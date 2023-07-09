@@ -1,0 +1,23 @@
+{
+  "name": "Weather360",
+  "short_name": "Weather360",
+  "description": "Weather 360 lets you check the weather of any city around the world by utilizing the OpenWeatherMap API.",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fb7413",
+  "theme_color": "#e38644"
+}
