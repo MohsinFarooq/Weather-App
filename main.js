@@ -56,6 +56,7 @@ search.addEventListener("click", () => {
         weatherContainer.classList.add('fade-in');
         weatherDetails.classList.add('fade-in');
         container.style.height = '590px';
+        searchContainer.style.marginTop = '2.5rem';
 
 
 
